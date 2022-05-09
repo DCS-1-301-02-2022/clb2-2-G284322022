@@ -21,7 +21,7 @@
  |:---:|:---:|
  | 71 | 9 |
 
- さあ！ホームページを確認しよう :sparkls:
+ さあ！ホームページを確認しよう:sparkles:
  [拓殖大学](http://www.takushoku-u.ac.jp "Takushoku University")
 <!-- この部分より上に記述を追加して下のチェックボックスで確認する -->
 - [x] 2種類以上の見出し(headers)を使っている．
